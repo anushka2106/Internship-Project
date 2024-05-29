@@ -1,2 +1,1 @@
-#This is a project about Irctc Website
-Internship Project
+Internship Project - Irctc Website (Home Page ) 
